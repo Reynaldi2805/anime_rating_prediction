@@ -1,0 +1,4 @@
+Dataset URL = https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
+
+Deployment URL = 
+https://huggingface.co/spaces/docchi/anime_prediction_milestone
